@@ -1,4 +1,4 @@
-/** Minimal next.config.js */
+/** Minimal Next.js config */
 const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
